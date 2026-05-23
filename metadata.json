@@ -1,0 +1,6 @@
+{
+  "name": "Gabriel Leal",
+  "description": "Plataforma premium para personal trainers e alunos gerenciarem dietas, treinos, evolução corporal e adesão.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
